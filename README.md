@@ -32,7 +32,8 @@ pnpm run dev
 Set Up Google API Key:
 
 
-Add your Google API key:
+![image](https://github.com/user-attachments/assets/6c2385cb-55d9-4204-919c-2dacc1ba0f01)
+
 
 plaintext
 GOOGLE_API_KEY=your_google_api_key_here
