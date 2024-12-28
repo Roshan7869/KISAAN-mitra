@@ -19,15 +19,18 @@ Water Management: Optimal irrigation practices.
 
 Expert Consultation: Access to agricultural experts.
 
+
+
+
 Getting Started
 Follow these steps to run the Kisaan Mitra AI model locally:
 
 Clone the Repository:   
-bash
+Git bash
 pnpm install
 Run the Development Server:
 
-bash
+Git bash
 pnpm run dev
 Set Up Google API Key:
 
